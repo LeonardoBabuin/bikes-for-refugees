@@ -24,6 +24,24 @@ button {
   font-size: 1rem;
 }
 
+.boton-rojo{
+  font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
+    background-color:#ce5f31;
+    font-size: 1rem;
+}
+
+.boton-rojo:hover, .boton-rojo:focus {
+    background-color: #62c6cd;
+}
+
+.volunteer-btn{
+  color: white;
+}
+
+.volunteer-btn:hover {
+  background-color: #62c6cd;
+}
+
 h1,h2,h3,h4,h5,h6 {
   margin-top: 0;
   margin-bottom: 0;
